@@ -1,0 +1,12 @@
+# Master Bot Auto-Generated Gitignore
+*.log
+.DS_Store
+.env
+.eslintcache
+.git/
+.npm
+build/
+dist/
+node_modules/
+temp/
+tmp/
